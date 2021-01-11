@@ -1,0 +1,28 @@
+.info {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.icon {
+  font-size: 20px;
+  color: rgb(145, 118, 118);
+  background-color: ivory;
+  margin: 0px 5px;
+}
+/** For tablet devices **/
+@media (min-width: 768px) and (max-width: 1023px) {
+  .info {
+    line-height: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .info {
+    font-size: 12px;
+    line-height: 120%;
+  }
+
+  .icon {
+    font-size: 14px;
+  }
+}
