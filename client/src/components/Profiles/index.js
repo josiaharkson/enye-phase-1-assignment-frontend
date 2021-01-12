@@ -22,7 +22,7 @@ const App = () => {
   const handleClose = () => setOpen(false);
 
   const fetchAllProfile = async () => {
-    const URL = "http://api.enye.tech/v1/challenge/records";
+    const URL = "https://api.enye.tech/v1/challenge/records";
     try {
       const res = await axios.get(URL);
       setData(res.data.records.profiles);
