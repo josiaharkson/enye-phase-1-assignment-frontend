@@ -55,9 +55,9 @@ const App = () => {
             shown below to view more information on a profile.
           </h1>
           {matches ? (
-            <img src="/guide_lgx.PNG" width="100%" alt="guide_lg" />
+            <img src="/guide_lgx.png" width="100%" alt="guide_lg" />
           ) : (
-            <img src="/guide_smx.PNG" width="100%" alt="guide_sm" />
+            <img src="/guide_smx.png" width="100%" alt="guide_sm" />
           )}
         </Alert>
       </Snackbar>
