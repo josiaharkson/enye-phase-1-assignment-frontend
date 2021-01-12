@@ -14,7 +14,7 @@ const Home = () => {
         <h3>
           List of all profiles from the{" "}
           <a
-            href="http://api.enye.tech/v1/challenge/records"
+            href="https://api.enye.tech/v1/challenge/records"
             target="_blank"
             rel="noreferrer"
           >
