@@ -7,19 +7,22 @@ To get the frontend running locally:
 
 - Clone this repo
 ```shell
-`git clone https://github.com/josiaharkson/phase-1-frontend.git`
+git clone https://github.com/josiaharkson/phase-1-frontend.git
 ```
 - Navigate to the client directory
 ```shell 
-`cd client`
+cd client
 ```
 - Install all required dependencies in the client directory. 
 ```shell 
-`npm install` or `yarn install`
+npm install 
+or
+yarn install
 ```
+
 - Runs the app in development mode. Open http://localhost:3000 to view it in the browser
 ```shell 
-  `npm start`
+  npm start
 ```
  
 Live Demo Check out he live demo deployed on heroku
