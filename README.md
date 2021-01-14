@@ -26,6 +26,5 @@ yarn install
 ```
 -  Open http://localhost:3000 to view it in the browser
 
-Live Demo Check out he live demo deployed on heroku
-https://phase-1-frontend.herokuapp.com/
-  
+  ### Live Demo 
+Check out the live demo deployed on heroku https://phase-1-frontend.herokuapp.com/
