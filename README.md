@@ -20,11 +20,12 @@ or
 yarn install
 ```
 
-- Runs the app in development mode. Open http://localhost:3000 to view it in the browser
+- To run the app in development mode.
 ```shell 
   npm start
 ```
- 
+-  Open http://localhost:3000 to view it in the browser
+
 Live Demo Check out he live demo deployed on heroku
 https://phase-1-frontend.herokuapp.com/
   
