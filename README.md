@@ -11,7 +11,7 @@ git clone https://github.com/josiaharkson/phase-1-frontend.git
 ```
 - Navigate to the client directory
 ```shell 
-cd client
+cd /client
 ```
 - Install all required dependencies in the client directory. 
 ```shell 
